@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="menu_click">#FF0000</color>
+    <color name="menu_nomarl">#000000</color>
+    <color name="tittle_bg">#F4282C</color>
+    <color name="black">#0a0909</color>
+    <color name="red_text">#ca091f</color>
+    <color name="text_00">#333333</color>
+    <color name="background_white">@android:color/white</color>
+</resources>
